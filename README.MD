@@ -1,5 +1,5 @@
 ```
-                                                               
+                                 /$$                           /$$    
                                 | $$                          | $$    
   /$$$$$$   /$$$$$$   /$$$$$$  /$$$$$$    /$$$$$$  /$$   /$$ /$$$$$$  
  /$$__  $$ /$$__  $$ /$$__  $$|_  $$_/   /$$__  $$|  $$ /$$/|_  $$_/  
@@ -10,6 +10,7 @@
 | $$                                                                  
 | $$                                                                  
 |__/                                                                  
+
 ```
 
 Objective: A CLI app that will generate rememberable passwords using lyrics from songs and movie lines. The passwords will have to replace common vowels and constants with special characters and symbols that are shortcuts on macs.
