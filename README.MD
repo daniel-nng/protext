@@ -1,9 +1,11 @@
+```
 ____    ____   ___   _| |_  _____  _   _  _| |_ 
 |  _ \  / ___) / _ \ (_   _)| ___ |( \ / )(_   _)
 | |_| || |    | |_| |  | |_ | ____| ) X (   | |_ 
 |  __/ |_|     \___/    \__)|_____)(_/ \_)   \__)
-|_|                                                
-
+|_|   
+                                             
+```
 
 Objective: A CLI app that will generate rememberable passwords using lyrics from songs and movie lines. The passwords will have to replace common vowels and constants with special characters and symbols that are shortcuts on macs.
 Task: 
