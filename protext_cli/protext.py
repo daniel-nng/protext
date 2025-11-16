@@ -12,7 +12,9 @@ welcome_text = r"""
 | $$                                                                  
 |__/                                                                                                         
 
-Generates passwords phrases from song lyrics of your chosen songs.
+Cybersecurity made musical!
+Generates passwords phrases from song lyrics of your chosen songs. 
+Select a song from Genius.com and fetch its lyrics to create memorable passphrases.
 """
 
 import json
